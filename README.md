@@ -11,7 +11,7 @@ while the sun shines on Miami
 a city of vibrant joy
 and fearless innovation
 embracing us
-in twinkling lights
+in an ocean breeze
 a mosaic of colors
 and rhythms filling the air
 empowered by each other
