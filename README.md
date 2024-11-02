@@ -21,7 +21,7 @@ we shine in Miami’s light
 # Data
 
 <p align="center">
-  <img src="data/miami_vnl_timelapse_2013_2023.gif" alt="Timelapse showing the satellite view of Miami and nighttime lights from 2013 to 2023." width="500">
+  <img src="artwork/miami_vnl_timelapse_2013_2023.gif" alt="Timelapse showing the satellite view of Miami and nighttime lights from 2013 to 2023." width="500">
 </p>
 
 The artwork features a Sentinel-2 satellite image from January 2024 downloaded from the [Sentinel Hub EO Browser](https://apps.sentinel-hub.com/eo-browser/), which is overlaid with the [2021 Miami-Dade County 5-foot Digital Elevation Model (DEM)](https://mdc.maps.arcgis.com/home/item.html?id=8c48d4bb8d9a42908f4936f698a2961a) created from 2021 LiDAR data, provided by Miami-Dade County and GPI Geospatial Inc. I then visualized annual median composites of VIIRS Nighttime Lights data provided by the [Earth Observation Group](https://eogdata.mines.edu/products/vnl/) for each year from 2013 to 2023. Using ArcGIS Pro, I converted each pixel to a point to better visualize the light values overlapping Miami's topography.
